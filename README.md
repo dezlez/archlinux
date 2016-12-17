@@ -1,0 +1,2 @@
+# archlinux
+pkg list backups
